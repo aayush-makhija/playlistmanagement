@@ -64,10 +64,6 @@ This project is a comprehensive Music Management System built with Go (Golang) a
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to customize the repository name, installation instructions, and other details based on your setup and preferences.
